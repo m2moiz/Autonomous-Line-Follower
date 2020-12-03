@@ -1,0 +1,6 @@
+void hardLeft()
+{
+  leftMotorReverse();
+  rightMotorForward();
+}
+
